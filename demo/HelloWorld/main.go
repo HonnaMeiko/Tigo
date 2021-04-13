@@ -1,6 +1,6 @@
 package main
 
-import "github.com/karldoenitz/Tigo/TigoWeb"
+import "github.com/karldoenitz/Tigdddo/TigoWeb"
 
 // HelloWorldHandler Demo
 type HelloWorldHandler struct {
